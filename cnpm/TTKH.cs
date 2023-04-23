@@ -12,10 +12,27 @@ namespace cnpm
 {
     public partial class TTKH : Form
     {
-        public TTKH()
+        string mssv;
+        public TTKH(string mssv)
         {
             InitializeComponent();
+            this.mssv = mssv;
+            button3.Enabled = false;
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            button3.Enabled = true;
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            button3.Enabled = false;
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
