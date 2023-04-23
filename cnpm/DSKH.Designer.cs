@@ -54,11 +54,11 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F);
-            this.label2.Location = new System.Drawing.Point(467, 29);
+            this.label2.Location = new System.Drawing.Point(439, 25);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(270, 31);
+            this.label2.Size = new System.Drawing.Size(323, 31);
             this.label2.TabIndex = 1;
-            this.label2.Text = "Tìm kiếm khách hàng";
+            this.label2.Text = "TÌM KIẾM KHÁCH HÀNG";
             // 
             // label3
             // 
@@ -115,7 +115,7 @@
             // 
             this.dataGridView1.BackgroundColor = System.Drawing.SystemColors.ControlLight;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(0, 253);
+            this.dataGridView1.Location = new System.Drawing.Point(0, 254);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.Size = new System.Drawing.Size(1187, 388);
             this.dataGridView1.TabIndex = 8;
