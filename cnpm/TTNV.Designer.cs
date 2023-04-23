@@ -38,7 +38,7 @@
             this.ClientSize = new System.Drawing.Size(688, 329);
             this.Name = "TTNV";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Thông tin";
+            this.Text = "Thông tin nhân viên";
             this.ResumeLayout(false);
 
         }
