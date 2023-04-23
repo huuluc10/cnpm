@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace cnpm
 {
-    public partial class GoiCuoc : Form
+    public partial class DSGoiCuoc : Form
     {
-        public GoiCuoc()
+        public DSGoiCuoc()
         {
             InitializeComponent();
         }

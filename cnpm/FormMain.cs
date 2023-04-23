@@ -69,7 +69,7 @@ namespace cnpm
 
         private void thôngTinGóiCướcToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            showform(new GoiCuoc());
+            showform(new DSGoiCuoc());
         }
 
         private void thêmGóiCướcToolStripMenuItem_Click(object sender, EventArgs e)
