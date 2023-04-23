@@ -116,7 +116,7 @@ namespace cnpm
                 ttnv.Show();
             } else
             {
-                var ttkh = new TTKH();
+                var ttkh = new TTKH(maquyen);
                 ttkh.Show();
             }
         }
