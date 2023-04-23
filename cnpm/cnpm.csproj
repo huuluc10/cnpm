@@ -102,9 +102,7 @@
     <Compile Include="ThemGoiCuoc.Designer.cs">
       <DependentUpon>ThemGoiCuoc.cs</DependentUpon>
     </Compile>
-    <Compile Include="ThemKH.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="ThemKH.cs" />
     <Compile Include="ThemKH.Designer.cs">
       <DependentUpon>ThemKH.cs</DependentUpon>
     </Compile>
