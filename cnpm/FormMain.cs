@@ -43,7 +43,6 @@ namespace cnpm
 
         private void cấpTàiKhoảnKháchHàngToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            showform(new ThemKH());
         }
 
         private void thoátToolStripMenuItem_Click(object sender, EventArgs e)

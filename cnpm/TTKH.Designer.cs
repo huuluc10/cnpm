@@ -216,6 +216,7 @@
             this.button4.TabIndex = 18;
             this.button4.Text = "Thêm";
             this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // TTKH
             // 

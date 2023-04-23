@@ -101,6 +101,7 @@
             this.button_themNV.TabIndex = 16;
             this.button_themNV.Text = "Thêm";
             this.button_themNV.UseVisualStyleBackColor = true;
+            this.button_themNV.Click += new System.EventHandler(this.button_themNV_Click);
             // 
             // button_xoaNV
             // 

@@ -27,5 +27,10 @@ namespace cnpm
                 this.Text = "Thông tin quản trị viên";
             }
         }
+
+        private void button_themNV_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

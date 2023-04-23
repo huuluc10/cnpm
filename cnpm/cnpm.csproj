@@ -102,10 +102,6 @@
     <Compile Include="ThemGoiCuoc.Designer.cs">
       <DependentUpon>ThemGoiCuoc.cs</DependentUpon>
     </Compile>
-    <Compile Include="ThemKH.cs" />
-    <Compile Include="ThemKH.Designer.cs">
-      <DependentUpon>ThemKH.cs</DependentUpon>
-    </Compile>
     <Compile Include="ThemNV.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -159,9 +155,6 @@
     </Compile>
     <EmbeddedResource Include="ThemGoiCuoc.resx">
       <DependentUpon>ThemGoiCuoc.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="ThemKH.resx">
-      <DependentUpon>ThemKH.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ThemNV.resx">
       <DependentUpon>ThemNV.cs</DependentUpon>
