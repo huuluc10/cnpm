@@ -107,7 +107,11 @@
             this.Controls.Add(this.label1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+<<<<<<< HEAD
             this.Margin = new System.Windows.Forms.Padding(6);
+=======
+            this.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+>>>>>>> e34a022c46356e42a7621e951939ba8b552efa3b
             this.Name = "DSKHHetHan";
             this.Text = "Thời gian từ";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();

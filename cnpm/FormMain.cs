@@ -89,7 +89,6 @@ namespace cnpm
 
         private void cấpTàiKhoảnNhânViênToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            showform(new ThemNV());
         }
 
         private void đToolStripMenuItem_Click(object sender, EventArgs e)

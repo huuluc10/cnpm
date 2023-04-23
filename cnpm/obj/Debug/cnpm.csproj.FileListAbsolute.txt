@@ -18,7 +18,10 @@ D:\code\C#\cnpm\cnpm\obj\Debug\cnpm.DSKHHetHan.resources
 D:\code\C#\cnpm\cnpm\obj\Debug\cnpm.ThemGoiCuoc.resources
 D:\code\C#\cnpm\cnpm\obj\Debug\cnpm.DSKH.resources
 D:\code\C#\cnpm\cnpm\obj\Debug\cnpm.DSNV.resources
+<<<<<<< HEAD
 D:\code\C#\cnpm\cnpm\obj\Debug\cnpm.ThemNV.resources
+=======
+>>>>>>> e34a022c46356e42a7621e951939ba8b552efa3b
 D:\code\C#\cnpm\cnpm\obj\Debug\cnpm.DangKyGoiCuoc.resources
 D:\TTCS\cnpm\cnpm\bin\Debug\cnpm.exe.config
 D:\TTCS\cnpm\cnpm\bin\Debug\cnpm.exe
