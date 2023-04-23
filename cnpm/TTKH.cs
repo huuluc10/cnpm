@@ -13,11 +13,35 @@ namespace cnpm
     public partial class TTKH : Form
     {
         string mssv;
-        public TTKH(string mssv)
+        string quyen;
+        public TTKH(string quyen)
         {
             InitializeComponent();
-            this.mssv = mssv;
-            button3.Enabled = false;
+            this.quyen = quyen;
+            buttonEnabled();
+        }
+
+        private void buttonEnabled()
+        {
+            if(quyen == "xem")
+            {
+                button1.Visible = false;
+                button2.Visible = false;
+                button3.Visible = false;
+                button4.Visible = false;
+            } else if (quyen == "sua")
+            {
+                button1.Visible = true;
+                button2.Visible = true;
+                button3.Visible = true;
+                button4.Visible = false;
+            } else
+            {
+                button4.Visible = true;
+                button1.Visible = false;
+                button2.Visible = false;
+                button3.Visible = false;
+            }
         }
 
         private void button1_Click(object sender, EventArgs e)
